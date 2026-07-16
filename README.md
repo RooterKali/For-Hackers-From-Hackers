@@ -1,14 +1,32 @@
 # ⚡ For Hackers, From Hackers
 
-> **Learn • Hunt • Share • Contribute**
+<div align="center">
+
+### A Community-Driven Bug Bounty Knowledge Base
+
+**Learn • Hunt • Share • Contribute**
+
+<br>
+
+# 📚 EXPLORE THE LIVE KNOWLEDGE BASE
+
+### 🚀 [OPEN FOR HACKERS, FROM HACKERS](https://rooterkali.notion.site/For-Hackers-From-Hackers-39f38b6b10fc8141ab35f6a3527a87fa) 🚀
+
+**Bug Bounty Tips • Tools • Dorks • Wordlists • Write-Ups • CTFs • Security Research**
+
+⬆️ **The knowledge base lives here and is continuously updated.** ⬆️
+
+</div>
+
+---
+
+## 👋 What is For Hackers, From Hackers?
 
 A community-driven knowledge base for bug bounty hunters and security researchers, curated from resources, techniques, tools, research, and insights shared by hackers across the security community.
 
-## 📖 Explore the Knowledge Base
+The goal is simple: bring useful security knowledge scattered across different platforms into one organized and accessible place.
 
-The live knowledge base is maintained in Notion and is continuously updated as new resources, write-ups, techniques, and research are added.
-
-**➡️ [Explore For Hackers, From Hackers](https://rooterkali.notion.site/For-Hackers-From-Hackers-39f38b6b10fc8141ab35f6a3527a87fa)**
+> **Looking for the actual resources?** → **[Enter the Live Knowledge Base](https://rooterkali.notion.site/For-Hackers-From-Hackers-39f38b6b10fc8141ab35f6a3527a87fa)**
 
 ## 🎯 What's Inside?
 
@@ -53,4 +71,10 @@ If you find the knowledge base useful, consider starring this repository and sha
 
 ---
 
+<div align="center">
+
+### 📖 [Explore the Live Knowledge Base](https://rooterkali.notion.site/For-Hackers-From-Hackers-39f38b6b10fc8141ab35f6a3527a87fa)
+
 **Built for hackers. Curated from hackers. Shared with the community.**
+
+</div>
